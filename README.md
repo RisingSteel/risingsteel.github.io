@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -8,7 +7,7 @@
 
 <h2>table</h2>
 
-<table style="width:10%">
+<table style="width:30%">
   <tr>
     <th>Name</th>
     <th>Last name</th> 
