@@ -23,6 +23,11 @@
     <td>Pikk</td>
     <td>7 cm</td>
   </tr>
+    <tr>
+    <td>Egor</td>
+    <td>Komarov</td>
+    <td>25 cm</td>
+  </tr>
 </table>
 <h3>jutt</h3>
 <p>Back in the day, Little Red Riding Hood would walk through the woods to visit her grandmother.
