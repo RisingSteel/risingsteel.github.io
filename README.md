@@ -16,17 +16,17 @@
   <tr>
     <td>Ago</td>
     <td>Luberg</td>
-    <td>18 cm</td>
+    <td>180 cm</td>
   </tr>
   <tr>
     <td>Janek</td>
     <td>Pikk</td>
-    <td>7 cm</td>
+    <td>177 cm</td>
   </tr>
     <tr>
     <td>Egor</td>
     <td>Komarov</td>
-    <td>25 cm</td>
+    <td>195 cm</td>
   </tr>
 </table>
 <h3>jutt</h3>
