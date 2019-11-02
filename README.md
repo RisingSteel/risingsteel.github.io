@@ -11,14 +11,17 @@
   <tr>
     <th>Name</th>
     <th>Last name</th> 
+    <th>Length</th>
   </tr>
   <tr>
     <td>Ago</td>
     <td>Luberg</td>
+    <td>18 cm</td>
   </tr>
   <tr>
     <td>Janek</td>
     <td>Pikk</td>
+    <td>7 cm</td>
   </tr>
 </table>
 <h3>jutt</h3>
