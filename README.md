@@ -7,7 +7,7 @@
 
 <h2>table</h2>
 
-<table style="width:30%">
+<table style="width:80%">
   <tr>
     <th>Name</th>
     <th>Last name</th> 
