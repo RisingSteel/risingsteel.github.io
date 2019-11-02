@@ -7,7 +7,7 @@
 
 <h2>table</h2>
 
-<table style="width:80%">
+<table style="width:130%">
   <tr>
     <th>Name</th>
     <th>Last name</th> 
@@ -30,6 +30,7 @@ The Big Bad Wolf was long dead, and he didn’t have any grandkids.
 Same with the Woodsman.
 Red sat on the porch, smoked joints, and read books.</p>
 <img src="https://leonardo.osnova.io/a52f9fb4-c017-dc22-c280-22beed1c756a/-/scale_crop/600x437/center/-/format/webp/" alt="pika pika">
+<h4>link</h4>
 <a href="https://www.ttu.ee/"> taltech koduleht </a>
 </body>
 </html>
